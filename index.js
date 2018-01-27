@@ -25,7 +25,7 @@ function tile2lat( y , z ) {
     return 180 / Math.PI * Math.atan(0.5 * ( Math.exp(n) - Math.exp(-n) ) )
 }
 
-module.export = {
+module.exports = {
     long2tile : long2tile,
     lat2tile : lat2tile,
     tile2long : tile2long,
