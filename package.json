@@ -1,0 +1,9 @@
+{
+  "name": "xyztile",
+  "version": "1.0.0",
+  "description": "XYZ tile names to coordinate or vice verse",
+  "main": "index.js",
+  "repository": "https://github.com/SelimAbidin/xyztile",
+  "author": "Selim Abidin",
+  "license": "CC BY-SA 2.0"
+}
