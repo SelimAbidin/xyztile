@@ -1,9 +1,15 @@
 {
   "name": "xyztile",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "XYZ tile names to coordinate or vice verse",
   "main": "index.js",
   "repository": "https://github.com/SelimAbidin/xyztile",
   "author": "Selim Abidin",
-  "license": "CC BY-SA 2.0"
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "mocha": "^5.0.0"
+  }
 }
